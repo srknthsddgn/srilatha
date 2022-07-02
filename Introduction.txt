@@ -1,0 +1,42 @@
+Hi,
+
+My self Naresh and I am having 4+ years of experience in aws and devops engineer.
+
+Currently I am working with IBM india pvt ltd supporting for client application 
+
+Total my team is 9 members we are giving 24/7 support
+
+and we are using jeera is ticketing tool and cloud watch monitoring tool.
+
+In this project roles and responsibilities:
+
+Daily we are intracting clients and development team as per their requirement we used to create infrastracture and provide them to test and deploy their code.
+
+part of that I used to create perticular VPC's with CIDR block 
+
+Good experience to create public and private subnets and I used to deploy web application and enterprise application on EC2 instance as per clinet requirement
+
+Good experience to configure s3 ,glaciour and EFS effective storage purpose
+
+we used to host webapps on public subnets and enterprise apps on private subnets
+
+we configure autoscaling and elastice load balancrs for high availability and sclability purpose
+
+we monitor cloud infra by using cloud watch
+
+Devops roles:
+
+We are using source code management purpose as Git
+
+whenver if application required any enhancemnets then our developmeny team then they will develop and push that code into git hub
+
+Once done we use to integrate git with jenkins by using git webhooks and git plugins
+
+once code intergrated with jenkins then we using to write CI/CD pipeline by using groovy script
+
+part of that we will provide scm details build trigger , build details here pom.xml and build trigger details once build is done it will hosted on artifact repository 
+
+from their we used to deploy same code in lower environments like dev and uat once done then we will deploy same code in preprod and prod
+
+this is how we have automated our ci cd pipe line
+
